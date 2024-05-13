@@ -16,4 +16,5 @@
 1) Manching
     - aimed: 1.5km
     - reached: 1.571km
+    - TODO: baro data is kinda weird i have to figure out what went wrong
     ![EuRoC 2023 - HALCYON](MANCHING/halcyon_manching.png)
